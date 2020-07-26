@@ -2,7 +2,7 @@
 
 This is a lite version of our official blog of the IBM Netezza to RedShift migration case study, since the blog post is a long one, so prepared this to give you an idea, changes faced and their solution.
 
-**Main Blog Link:** 
+**Main Blog Link:** [https://medium.com/searce/case-study-migrating-a-giant-netezza-warehouse-to-aws-redshift-fe41391e2f65](https://medium.com/searce/case-study-migrating-a-giant-netezza-warehouse-to-aws-redshift-fe41391e2f65)
 
 ## On-prem Architecture:
 
