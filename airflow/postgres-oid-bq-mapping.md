@@ -10,7 +10,7 @@
 |character|varying  |STRING |
 |date     |DATE     |1082   |
 |decimal  |FLOAT64  |1700   |
-|double   |precision|FLOAT64|
+|double precision   |FLOAT64  |701    |
 |integer  |INT64    |23     |
 |money    |FLOAT64  |790    |
 |real     |FLOAT64  |700    |
